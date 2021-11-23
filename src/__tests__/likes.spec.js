@@ -6,8 +6,8 @@ describe("Likes", () => {
     const repository = await request(app)
       .post("/repositories")
       .send({
-        url: "https://github.com/Rocketseat/umbriel",
-        title: "Umbriel",
+        url: "https://github.com/WesleyAdam/Concepts-Node.js",
+        title: "Concepts Node.js",
         techs: ["Node", "Express", "TypeScript"]
       });
 
