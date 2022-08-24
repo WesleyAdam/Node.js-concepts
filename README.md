@@ -3,13 +3,13 @@
 </h3>
 
 <p align="center">
-  <a href="https://rocketseat.com.br">
+  <a href="https://github.com/wesleyasilva">
     <img alt="Make by Wesley Adam" src="https://img.shields.io/badge/make%20by-Wesley%20Adam-%2304D361">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
 
-  <a href="https://github.com/wesleyasilva">
+  <a href="https://github.com/wesleyasilva?tab=stars">
     <img alt="Stargazers" src="https://img.shields.io/github/stars/wesleyasilva/Learning-Node.js-Concepts?style=social">
   </a>
 </p>
