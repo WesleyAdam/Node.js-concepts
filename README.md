@@ -9,8 +9,8 @@
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
 
-  <a href="https://github.com/WesleyAdam">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/WesleyAdam/Learning-Node.js-Concepts?style=social">
+  <a href="https://github.com/wesleyasilva">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/wesleyasilva/Learning-Node.js-Concepts?style=social">
   </a>
 </p>
 
